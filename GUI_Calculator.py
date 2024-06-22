@@ -1,4 +1,4 @@
-# kivy module will be used, an open source platform for cross-platform development
+
 from kivy.app import App
 from kivy.uix.button import Button
 from kivy.uix.boxlayout import BoxLayout
